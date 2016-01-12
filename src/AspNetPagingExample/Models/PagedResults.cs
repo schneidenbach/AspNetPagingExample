@@ -23,7 +23,7 @@ namespace AspNetPagingExample.Models
         public int TotalNumberOfPages { get; set; }
 
         /// <summary>
-        /// The total number of 
+        /// The total number of records available.
         /// </summary>
         public int TotalNumberOfRecords { get; set; }
 
